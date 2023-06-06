@@ -1,0 +1,17 @@
+KEGIATAN1
+Berdasarkan rencana pengembangan sistem perangkat lunak yang sudah kalian buat pada modul
+sebelumnya, buatlah list product backlog dari pengembangan yang akan kalian lakukan. Product
+backlog harus menerapkan setiap jenis issue yang telah dijelaskan pada modul ini, mulai dari epic
+hingga sub tasks. Kemudian tentukan masing-masing story point pada setiap story yang ada pada
+product backlog.
+
+Laboratorium Informatika
+
+KEGIATAN2
+Jelaskan kepada asisten terkait rencana pengembangan yang telah kalian buat dan berikan alasan
+pemberian nilai story point pada setiap story yang ada pada product backlog kelompok anda.
+
+Jawaban 
+
+Terdapat Pada Jira , dapat diakses pada link berikut
+https://ikhsanlemon319.atlassian.net/jira/software/projects/MPPL/boards/3/backlog
