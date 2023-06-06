@@ -1,0 +1,13 @@
+KEGIATAN 1
+Buatlah cukup 1 sprint planning saja pada pengembangan projek di kelompok kalian dengan menggunakan
+JIRA dan jelaskan kepada asisten mulai deadline pengerjaan sprint, alasan pemilihan backlog-backlog yang
+diambil pada sprint, hingga tujuan atau goals dari sprint planning.
+
+KEGIATAN2
+Simulasikan cara pembuatan sprint planning dari awal dan jelaskan sprint dengan JIRA Software kepada
+asisten. Simulasi harus dilakukan oleh masing-masing peran pada kelompok yang telah dibuat pada modul
+1, mulai dari manager hingga closing.
+
+Jawaban 
+Terdapat pada Jira dapat diakses pada link berikut
+https://ikhsanlemon319.atlassian.net/jira/software/projects/MPPL/boards/3
