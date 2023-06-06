@@ -1,0 +1,19 @@
+Kegiatan 1
+Buatlah Project Charter berdasarkan dari ide pada modul sebelumnya menggunakan template
+sederhana seperti pada penjelasan modul (boleh ditambahkan disesuaikan dengan kebutuhan).
+
+Kegiatan 2
+1. Hitung estimasi biaya produksi dari proyek yang kelompok kembangkan menggunakan
+penghitungan COCOMO (organic, semi-detached, embedded).
+2. Buatlah estimasi pengerjaan menggunakan estimasi Bottom-Up seperti pada contoh di atas,
+berdasarkan backlog yang telah dibuat pada Jira.
+
+Jawaban : 
+- Project Charter dapat dilihat pada link berikut
+  https://docs.google.com/document/d/1pdWuK1uyPKqhlHODQIxx53-ALmUUlYOk/edit 
+
+- Perhitungan COCOMO dapat diakses pada link berikut
+  https://docs.google.com/document/d/12mIxgcLE57L321qk-b_gtIKSD4CIq07L/edit?rtpof=true
+
+- Estimasi bottom up dapat dilihat dari link berikut
+  https://docs.google.com/document/d/1P0fbimZ3LsJPsFxGeKPFLqKWAWYfosr7/edit?rtpof=true
