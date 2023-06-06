@@ -1,0 +1,9 @@
+Kegiatan praktikum
+Implementasikan 5 jenis report yang disebutkan di atas pada project kelompok. Jenis report bebas
+dipilih dan disesuaikan dengan project tim, namun WAJIB mengimplementasikan Sprint Report
+pada salah satu jenis report yang dipilih.
+Note :
+- 4 report bebas pilih, 1 report WAJIB mengimplementasikan Sprint Report.
+- Masing-masing report harus dijelaskan oleh masing-masing anggota kelompok sesuai dengan
+peran yang telah dibagikan pada modul 1, yaitu manager, initiator, planner, executor, dan
+closing.
