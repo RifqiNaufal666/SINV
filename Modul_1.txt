@@ -1,0 +1,33 @@
+PRE-PRAKTIKUM
+Buatlah kelompok beranggotakan 5 orang dengan role Manager, Initiator, Planner, Executor, dan
+Closing. Kelompok praktikum harus sama dengan kelompok yang ada di kelas mata kuliah.
+
+Kegiatan 1 
+Menentukan metode SDLC yang akan digunakan dalam pengembangan software
+
+Kegiatan 2
+menentukan ide untuk manajemen proyek perangkat lunak yang akan dibuat dan buat Business Case
+dari ide yang telah ditentukan
+
+Jawaban
+
+SDLC : Agile 
+
+Masalah : 
+Toko Sahabat merupakan toko fotocopy sekaligus toko tempat penjualan alat tulis , alat perkantoran dan sebagainya. Alat perkantoran dan sekolah yang memiliki  banyak jenis barang yang dijual sehingga mempersulit pemilik toko dalam melakukan pencatatan barang yang keluar dan masuk. Setiap satu bulan sekali toko menerima supply untuk barang yang stoknya telah habis atau menipis, yang dimana pemilik toko atau karyawan akan menghitung dan mencatat. Namun, diperlukan waktu yang cukup lama karena banyaknya jenis barang yang ditulis dengan manual terkadang harus menghitung dua kali agar tidak terjadi kesalahan dalam menentukan jumlah barang. Bahkan terkadang terjadi kesalahan dalam menulis jumlah barang dan budget untuk kulakan per-item.
+Analisa Situasi dan Keadaan :
+	Aplikasi SInv ( Sahabat Inventory ) adalah aplikasi Sistem Management Inventory yang menyediakan kemudahan dalam melakukan management inventory. Khususnya management terhadap stok barang yang ada pada Toko Sahabat.
+
+Kebutuhan Bisnis :
+Aplikasi akan menampilkan jumlah stok barang yang tersedia.
+Aplikasi akan mencatat jumlah barang yang keluar maupun masuk pada inventory.
+Aplikasi akan melakukan rekapan barang yang masuk dari supplier.
+Aplikasi akan menampilkan detail produk yang tersedia pada Toko.
+
+Solusi Masalah :
+Aplikasi SInv ( Sahabat Inventory ) membantu karyawan Toko Sahabat agar tidak terjadi kesalahan dalam pencatatan terhadap stok barang yang tersedia ataupun stok barang yang keluar dan masuk.
+
+Manfaat Yang Diharapkan :
+Membantu kinerja Toko dalam Management Inventory.
+Mempermudah Karyawan dalam melakukan pencatatan terhadap barang yang masuk dari supplier.
+Menghindari kesalahan pencatatan barang.
