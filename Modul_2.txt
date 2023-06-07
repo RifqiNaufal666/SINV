@@ -9,11 +9,13 @@ penghitungan COCOMO (organic, semi-detached, embedded).
 berdasarkan backlog yang telah dibuat pada Jira.
 
 Jawaban : 
+
+Pada Modul 2, kelompok kami sudah melakukan beberapa perhitungan estimasi biaya dengan menggunakan beberapa teknik seperti Cocomo dan Bottom Up. Dapat dilihat pada link di bawah :
+
 - Project Charter dapat dilihat pada link berikut
-  https://docs.google.com/document/d/1pdWuK1uyPKqhlHODQIxx53-ALmUUlYOk/edit 
+https://docs.google.com/document/d/1pdWuK1uyPKqhlHODQIxx53-ALmUUlYOk/edit 
 
 - Perhitungan COCOMO dapat diakses pada link berikut
-  https://docs.google.com/document/d/12mIxgcLE57L321qk-b_gtIKSD4CIq07L/edit?rtpof=true
+https://docs.google.com/document/d/12mIxgcLE57L321qk-b_gtIKSD4CIq07L/edit?rtpof=true
 
-- Estimasi bottom up dapat dilihat dari link berikut
-  https://docs.google.com/document/d/1P0fbimZ3LsJPsFxGeKPFLqKWAWYfosr7/edit?rtpof=true
+- Estimasi bottom up dapat dilihat dari link berikut  https://docs.google.com/document/d/1P0fbimZ3LsJPsFxGeKPFLqKWAWYfosr7/edit?rtpof=true
